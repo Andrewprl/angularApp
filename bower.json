@@ -1,0 +1,14 @@
+{
+    "name": "test-app",
+    "version": "0.0.1",
+    "authors": [
+        "author Andrii"
+    ],
+    "dependencies": {
+        "sass-bootstrap": "~3.0.0",
+        "angular": "~1.4.1",
+        "jquery": "~1.10.2",
+        "bootstrap":"~3.3.4"
+    },
+    "private": true
+}
